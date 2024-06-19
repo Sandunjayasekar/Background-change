@@ -27,6 +27,7 @@
    left: 0;
    top: 0;
    overflow: hidden;
+   width: 20px;
 }
 
 span {
@@ -36,7 +37,7 @@ span {
     background: white;
     position: absolute;
     top: 0;
-    left: 0;
+    left: 20px;
 }
 
 .arrow {
